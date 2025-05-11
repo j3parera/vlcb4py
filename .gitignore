@@ -8,3 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+
+# History
+.history
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+.vscode-test/
+
+# Pytest cache
+.cache/
+
+# mypy cache
+.mypy_cache/
